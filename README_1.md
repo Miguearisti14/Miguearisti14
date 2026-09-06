@@ -63,8 +63,6 @@ Web application for recommending movies and series, integrating external APIs wi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-
 ### 🏢 CRM Platform
 
 Customer Relationship Management system for handling clients, interactions, companies, and business information. Built with Django following the MVT pattern.
@@ -76,16 +74,26 @@ Customer Relationship Management system for handling clients, interactions, comp
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
+### 🏭 Colceramica Corona — Industrial SaaS Platform
+
+Frontend development of an industrial consumption management SaaS platform at one of Colombia's leading ceramics manufacturers. Built interfaces for tracking and reporting resource consumption, contributing to the digitalization of internal operations.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=miguearisti8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguearisti8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguearist14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguearisti8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguearist14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,16 +102,13 @@ Customer Relationship Management system for handling clients, interactions, comp
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-aristizabal-pabon-6a4150189
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-aristizabal-pabon-6a4150189)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguearisti8@gmail.com)
 
 </div>
 
 <br/>
 
-<div align="center">
-  <em>💡 "Always learning, always building."</em>
-</div>
 
 <br/>
 
