@@ -1,33 +1,29 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=00C9A7&center=true&vCenter=true&width=680&lines=Hola%2C+soy+Miguel+%F0%9F%91%8B;Systems+Engineering+Student;Software+Developer;Building+ideas+through+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=00C9A7&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Miguel+%F0%9F%91%8B;Systems+Engineering+Student;Software+Developer;Building+ideas+through+code)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=miguearisti8&color=00c9a7&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil" />
-</div>
-
 <br/>
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Soy **Miguel Aristizábal**, estudiante de Ingeniería de Sistemas en 8vo semestre apasionado por el desarrollo de software. Me gusta construir aplicaciones que resuelven problemas reales, aprender nuevas tecnologías y aplicar buenas prácticas de arquitectura desde el frontend hasta el backend.
+I'm **Miguel Aristizábal**, an 8th-semester Systems Engineering student passionate about software development. I enjoy building applications that solve real problems, learning new technologies, and applying good architectural practices from the frontend all the way to the backend.
 
-- 🎓 Estudiante de Ingeniería de Sistemas — 8vo semestre
-- 🧩 Experiencia desarrollando aplicaciones **Frontend y Backend**
-- 🗄️ Trabajo con bases de datos **relacionales y NoSQL**
-- ☁️ Explorando **Cloud Computing** y sistemas distribuidos
-- 🏗️ Interesado en **Arquitectura de Software** y buenas prácticas
-- 🤝 Abierto a colaborar en proyectos de software interesantes
+- 🎓 Systems Engineering student — 8th semester
+- 🧩 Experience building **Frontend and Backend** applications
+- 🗄️ Comfortable with both **relational and NoSQL** databases
+- ☁️ Exploring **Cloud Computing** and distributed systems
+- 🏗️ Interested in **Software Architecture** and clean code
+- 🤝 Open to collaborating on interesting software projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Lenguajes**
+**Languages**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,26 +38,25 @@ Soy **Miguel Aristizábal**, estudiante de Ingeniería de Sistemas en 8vo semest
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Bases de datos**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Herramientas**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
-### 🎬 RECO — Plataforma de Recomendación de Películas y Series
+### 🎬 RECO — Movie & Series Recommendation Platform
 
-Aplicación web para recomendar películas y series, integrando APIs externas con un backend robusto y base de datos relacional. Permite a los usuarios descubrir contenido según sus preferencias.
+Web application for recommending movies and series, integrating external APIs with a robust backend and relational database. Users can discover content based on their preferences.
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -72,22 +67,13 @@ Aplicación web para recomendar películas y series, integrando APIs externas co
 
 ### 🏢 CRM Platform
 
-Sistema de gestión de relaciones con clientes para administrar clientes, interacciones, empresas e información de negocio. Desarrollado con Django siguiendo el patrón MVT.
+Customer Relationship Management system for handling clients, interactions, companies, and business information. Built with Django following the MVT pattern.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
----
-
-### 🎨 Pigmentos
-
-Aplicación para gestión y administración de colores y pigmentos, implementada con arquitectura NoSQL para manejar datos flexibles y no estructurados.
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
@@ -104,11 +90,11 @@ Aplicación para gestión y administración de colores y pigmentos, implementada
 
 ---
 
-## 📫 Contáctame
+## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miguel-aristizabal-pabon-6a4150189
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguearisti8@gmail.com)
 
 </div>
