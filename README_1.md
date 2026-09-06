@@ -88,7 +88,7 @@ Frontend development of an industrial consumption management SaaS platform at on
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=miguearisti8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Miguearist14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguearist14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
@@ -111,7 +111,3 @@ Frontend development of an industrial consumption management SaaS platform at on
 
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c9a7&height=80&section=footer" />
-</div>
